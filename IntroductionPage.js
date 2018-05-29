@@ -62,7 +62,6 @@ export default class HeaderIconExample extends Component {
           </Button>
         </Content>
       </Container>
-
     );
   }
 }
